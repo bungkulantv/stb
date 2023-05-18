@@ -2,10 +2,10 @@
 
 
 #Nasional
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Nasional",SCTV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQDGOrBssjoWknpDQ2M-Dcgomo30ypjgCQD_Zfz_usYA&s" group-title="Nasional",Indosiar* 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-https://cdnjkt2.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+https://cdnjkt2.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Nasional",Indosiar
 https://raw.githubusercontent.com/bungkulantv/live/main/indosiar
