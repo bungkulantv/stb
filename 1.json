@@ -110,8 +110,8 @@
                 {
           "name": "02.SCTV Dvb ",
           "logo_url":"https://i.ibb.co/VNGfy1H/ETS.png",
-          "stream_url": "http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8",
-          "user_agent": "JW Player SDK for Android/2.07.05 (Linux;Android 7.0) ExoPlayerLib/2.6.1"
+          "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1684868083~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=eabc1f2114ff7a481f7c84798466c86606827a8eb47a16c820401f93edccc10e/vp9/204_stream.mpd",
+          
           
           
         },
